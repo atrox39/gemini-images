@@ -11,3 +11,8 @@ go mod tidy
 ```sh
 go build
 ```
+
+### Usage
+```sh
+ ./gemini-images -promp "pencil with hat"
+```
